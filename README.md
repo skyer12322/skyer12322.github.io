@@ -1,12 +1,19 @@
 <div align="center">
-  <img src="./assets/profile.jpg" width="220" alt="Стояновский Никита Анатольевич" />
 
-  # Стояновский Никита Анатольевич
+<img src="./assets/profile.jpg" width="220" alt="Стояновский Никита Анатольевич">
 
-  ### Разработчик широкого профиля: backend, frontend, DevOps и интерес к кибербезопасности
+<h1>Стояновский Никита Анатольевич</h1>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-skyer12322-181717?style=flat-square&logo=github)](https://github.com/skyer12322)
-  [![Telegram](https://img.shields.io/badge/Telegram-@stoyanovskii__n-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/stoyanovskii_n)
+<h3>Разработчик широкого профиля: backend, frontend, DevOps и интерес к кибербезопасности</h3>
+
+<a href="https://github.com/skyer12322">
+  <img src="https://img.shields.io/badge/GitHub-skyer12322-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://t.me/stoyanovskii_n">
+  <img src="https://img.shields.io/badge/Telegram-@stoyanovskii__n-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
 </div>
 
 ---
